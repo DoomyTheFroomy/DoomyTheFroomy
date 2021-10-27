@@ -6,7 +6,8 @@
 
 ### Connect with me:
 
-* [Twitter](https://twitter.com/doomythefroomy)
+* <a href="https://twitter.com/doomythefroomy" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="javascript" width="40" height="40"/> </a>
+
 
 ### Languages I use:
 
